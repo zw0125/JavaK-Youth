@@ -1,6 +1,6 @@
 public class assignment3 {
     public static void main(String[] args) {
-        for (int i = 0; i < 26; i++) {
+        for (int i = 0; i < 206; i++) {
             if (i ==14){
                 continue;
             }
